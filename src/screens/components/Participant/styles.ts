@@ -9,16 +9,19 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     marginBottom: 10
   },
+
   name: {
     flex: 1,
     fontSize: 16,
     color: '#FFF',
     marginLeft: 16
   },
+
   buttonText: {
     color: '#FFF',
     fontSize: 24
   },
+  
   button: {
     width: 56,
     height: 56,
